@@ -7,7 +7,7 @@ import {
   getFeedbackByInterviewId,
   getInterviewById,
 } from "@/lib/actions/general.action";
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/button";
 import { getCurrentUser } from "@/lib/actions/auth.action";
 
 const Feedback = async ({ params }: RouteParams) => {

@@ -1,6 +1,6 @@
 import LogoHeader from "./LogoHeader";
 import { MidHeader } from "./MidHeader";
-import { Button } from "./ui/Button";
+import { Button } from "./ui/button";
 const Header = () => {
   return (
     <div className="px-4 py-2 flex w-screen items-center justify-between">

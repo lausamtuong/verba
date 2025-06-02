@@ -1,4 +1,4 @@
-import { Button } from "./ui/Button";
+import { Button } from "./ui/button";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "./ui/Tabs";
 
 const ToolTabs = () => {

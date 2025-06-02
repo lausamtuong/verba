@@ -2,7 +2,7 @@ import dayjs from "dayjs";
 import Link from "next/link";
 import Image from "next/image";
 
-import { Button } from "./ui/Button";
+import { Button } from "./ui/button";
 import DisplayTechIcons from "./DisplayTechIcons";
 
 import { cn, getRandomInterviewCover } from "@/lib/utils";
